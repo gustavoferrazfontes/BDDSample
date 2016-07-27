@@ -1,0 +1,18 @@
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\bin\Debug\Financeiro.Core.dll
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\bin\Debug\Financeiro.Core.pdb
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\obj\Debug\Financeiro.Core.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\obj\Debug\Financeiro.Core.dll
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\obj\Debug\Financeiro.Core.pdb
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\bin\Debug\Financeiro.Core.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\bin\Debug\Financeiro.Core.pdb
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\obj\Debug\Financeiro.Core.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\obj\Debug\Financeiro.Core.pdb
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\bin\Debug\Financeiro.Core.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\bin\Debug\Financeiro.Core.pdb
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\obj\Debug\Financeiro.Core.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\obj\Debug\Financeiro.Core.pdb
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\bin\Debug\Financeiro.Core.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\bin\Debug\Financeiro.Core.pdb
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\obj\Debug\Financeiro.Core.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\obj\Debug\Financeiro.Core.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\ContextoDeFinancas\Financeiro.Core\obj\Debug\Financeiro.Core.pdb

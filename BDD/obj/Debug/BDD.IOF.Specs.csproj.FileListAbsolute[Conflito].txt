@@ -1,0 +1,39 @@
+D:\Fontes .NET\BDD\Moneynow\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\BDD.exe.config
+D:\Fontes .NET\BDD\Moneynow\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\BDD.exe
+D:\Fontes .NET\BDD\Moneynow\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\BDD.pdb
+D:\Fontes .NET\BDD\Moneynow\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+D:\Fontes .NET\BDD\Moneynow\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Fontes .NET\BDD\Moneynow\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\TechTalk.SpecFlow.dll
+D:\Fontes .NET\BDD\Moneynow\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+D:\Fontes .NET\BDD\Moneynow\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Fontes .NET\BDD\Moneynow\BDD_CalculodeIOF_PassoAPasso\BDD\obj\Debug\BDD.exe
+D:\Fontes .NET\BDD\Moneynow\BDD_CalculodeIOF_PassoAPasso\BDD\obj\Debug\BDD.pdb
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\BDD.exe.config
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\BDD\obj\Debug\BDD.exe
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\BDD\obj\Debug\BDD.pdb
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\BDD.exe
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\BDD.pdb
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Financeiro.Core.dll
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Financeiro.Core.pdb
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\BDD\obj\Debug\BDD.IOF.Specs.csprojResolveAssemblyReference.cache
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\BDD.exe.config
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\obj\Debug\BDD.exe
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\obj\Debug\BDD.pdb
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\BDD.exe
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\BDD.pdb
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Financeiro.Core.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Microsoft.UnitTestFramework.Extensions.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Financeiro.Core.pdb
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Microsoft.UnitTestFramework.Extensions.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\obj\Debug\BDD.IOF.Specs.csprojResolveAssemblyReference.cache
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\WatiN.Core.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\WatiN.Core.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Microsoft.mshtml.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\BDD\bin\Debug\Interop.SHDocVw.dll

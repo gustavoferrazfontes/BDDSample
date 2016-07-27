@@ -1,0 +1,48 @@
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\IOF.Tests.dll
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\IOF.Tests.pdb
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Financeiro.Core.dll
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\NBehave.Spec.NUnit.dll
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Financeiro.Core.pdb
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\obj\Debug\IOF.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\obj\Debug\IOF.Tests.dll
+C:\Users\Gustavo\Documents\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\obj\Debug\IOF.Tests.pdb
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\IOF.Tests.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\IOF.Tests.pdb
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Financeiro.Core.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\NBehave.Spec.NUnit.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\nunit.framework.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Financeiro.Core.pdb
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\nunit.framework.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\obj\Debug\IOF.Tests.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\obj\Debug\IOF.Tests.pdb
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\obj\Debug\IOF.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\IOF.Tests.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\IOF.Tests.pdb
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Financeiro.Core.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\NBehave.Spec.NUnit.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Financeiro.Core.pdb
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\obj\Debug\IOF.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\obj\Debug\IOF.Tests.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\obj\Debug\IOF.Tests.pdb
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\IOF.Tests.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\IOF.Tests.pdb
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Financeiro.Core.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\NBehave.Spec.NUnit.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Financeiro.Core.pdb
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\obj\Debug\IOF.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\obj\Debug\IOF.Tests.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\IOF.Tests\obj\Debug\IOF.Tests.pdb

@@ -1,0 +1,167 @@
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\ApplicationInsights.config
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\csc.exe
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\vbc.exe
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Demo.Web.dll.config
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Demo.Web.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Demo.Web.pdb
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Antlr3.Runtime.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.Web.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Newtonsoft.Json.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Helpers.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Mvc.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Optimization.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Razor.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\WebGrease.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.Web.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Helpers.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Mvc.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Optimization.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Razor.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Antlr3.Runtime.pdb
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Newtonsoft.Json.xml
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\obj\Debug\Demo.Web.csprojResolveAssemblyReference.cache
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\obj\Debug\Demo.Web.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\obj\Debug\Demo.Web.pdb
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Financeiro.Core.dll
+C:\Users\r017439\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Financeiro.Core.pdb
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\ApplicationInsights.config
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\csc.exe
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\vbc.exe
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Demo.Web.dll.config
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Demo.Web.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Demo.Web.pdb
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Antlr3.Runtime.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Financeiro.Core.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Newtonsoft.Json.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Helpers.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Mvc.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Optimization.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Razor.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\WebGrease.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Financeiro.Core.pdb
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Helpers.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Mvc.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Optimization.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Razor.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Newtonsoft.Json.xml
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\obj\Debug\Demo.Web.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\obj\Debug\Demo.Web.dll
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\obj\Debug\Demo.Web.pdb
+C:\Users\Gustavo\Google Drive\Desenvolvimento\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\desktop.ini
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\ApplicationInsights.config
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\csc.exe
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\desktop.ini
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\vbc.exe
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Demo.Web.dll.config
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Demo.Web.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Demo.Web.pdb
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Antlr3.Runtime.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Financeiro.Core.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Newtonsoft.Json.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Helpers.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Mvc.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Optimization.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Razor.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\WebGrease.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Financeiro.Core.pdb
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Helpers.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Mvc.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Optimization.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.Razor.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\bin\Newtonsoft.Json.xml
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\obj\Debug\Demo.Web.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\obj\Debug\Demo.Web.dll
+C:\Users\Gustavo\Desktop\BDD+TDD DEMO\BDD_CalculodeIOF_PassoAPasso\Demo.Web\obj\Debug\Demo.Web.pdb
